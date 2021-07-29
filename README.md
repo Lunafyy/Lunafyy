@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" />Lunafy#0923 - 478301785489145867
+<img align="left" alt="Discord Logo" width="22px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" />Lunafy#0923 - 478301785489145867
 
 ### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
